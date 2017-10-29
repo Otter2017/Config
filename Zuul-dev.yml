@@ -7,6 +7,6 @@ server:
   
 eureka:
   client：
-    serviceUrl:
+    service-url:
       defaultZone: http://root:eureka@localhost:8000/eureka/
   
