@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: ConfigClient
+profile: dev
+server:
+  port: 6000
+application:
+  version: 17.10.24
