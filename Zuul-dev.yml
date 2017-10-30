@@ -6,7 +6,8 @@ server:
   port: 80
 
 ribbon:
-  ConnectTimeout: 30
+  ReadTimeout: 6000
+  ConnectTimeout: 3000
 
 security:
   basic:
