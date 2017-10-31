@@ -15,3 +15,7 @@ security:
   user:
     name: root
     password: zuul
+
+zuul:
+  routes:
+    configserver: /config/**
