@@ -19,3 +19,4 @@ security:
 zuul:
   routes:
     configserver: /config/**
+    devicemanage: /device/**
