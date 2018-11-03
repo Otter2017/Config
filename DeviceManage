@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: DeviceManage
+
+server:
+  port: 6000
+
+ribbon:
+  ReadTimeout: 6000
+  ConnectTimeout: 3000
