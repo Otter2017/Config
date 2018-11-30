@@ -3,6 +3,6 @@ spring:
     name: ConfigClient
 profile: dev
 server:
-  port: 8100
+  port: 8101
 application:
   version: 18.11.30
