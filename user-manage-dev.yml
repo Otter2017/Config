@@ -53,4 +53,6 @@ user-manage:
   login-fail-expire-seconds: 120
   captcha-expire-seconds: 300
   role-permission-expire-days: 7  
-  
+
+server:
+  port: 8760
