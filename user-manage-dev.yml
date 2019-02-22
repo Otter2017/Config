@@ -55,4 +55,4 @@ user-manage:
   role-permission-expire-days: 7  
 
 server:
-  port: 8760
+  port: '{cipher}538e2bf81a437ddb12fc2f001214cf2258e8720c8da8dd2bdfb248c0aa0323b5'
